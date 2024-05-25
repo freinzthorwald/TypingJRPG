@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8adaeb3a9b6dd4489996087a2917afe, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  TravelLines:
+  - Phrase: This is a story all about how
+    Speed: 120
+    SpawnTime: 0
+    Track: 1
+    XPosition: 1300
+    YPosition: 10
+  - Phrase: My life got flipped turned upside down
+    Speed: 120
+    SpawnTime: 8
+    Track: 2
+    XPosition: 1500
+    YPosition: -45
+  - Phrase: And I'd like to take a minute, just sit right there
+    Speed: 120
+    SpawnTime: 15
+    Track: 3
+    XPosition: 1700
+    YPosition: -95
+  - Phrase: I'll tell you how I became the prince of a town called Bel Air.
+    Speed: 120
+    SpawnTime: 24
+    Track: 4
+    XPosition: 2000
+    YPosition: -150
+  - Phrase: In West Philadelphia
+    Speed: 120
+    SpawnTime: 40
+    Track: 1
+    XPosition: 1500
+    YPosition: 150
+  - Phrase: Born and Raised
+    Speed: 120
+    SpawnTime: 44
+    Track: 2
+    XPosition: 1500
+    YPosition: 100
+  - Phrase: On the playground
+    Speed: 120
+    SpawnTime: 48
+    Track: 3
+    XPosition: 1500
+    YPosition: 50
+  - Phrase: Is where I spent most of my days
+    Speed: 120
+    SpawnTime: 52
+    Track: 4
+    XPosition: 1700
+    YPosition: 0
+  - Phrase: Chillin' out
+    Speed: 180
+    SpawnTime: 55
+    Track: 1
+    XPosition: 2000
+    YPosition: 150
+  - Phrase: Maxin'
+    Speed: 180
+    SpawnTime: 57
+    Track: 2
+    XPosition: 2000
+    YPosition: 100
+  - Phrase: Relaxin' all cool
+    Speed: 180
+    SpawnTime: 59
+    Track: 3
+    XPosition: 2300
+    YPosition: 50
+  - Phrase: And all shootin' some B-ball outside of the school
+    Speed: 180
+    SpawnTime: 61
+    Track: 4
+    XPosition: 2900
+    YPosition: 0
